@@ -1,7 +1,7 @@
 ### Hi there 👋 this is Carlos Colmenarez! Full time Frontend Developer
 
-<img align="left" margin-top="30px" margin-bottom="30px" width="47%" src="https://github-readme-stats.vercel.app/api?username=cacm96&show_icons=true&theme=transparent" />
-<img align="left" margin-top="10px" margin-bottom="10px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacm96&layout=compact" />
+<img align="left" margin-top="30px" margin-bottom="30px" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cacm96&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img align="left" margin-top="10px" margin-bottom="10px" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cacm96&layout=compact" />
 
 ## Highlights
 
