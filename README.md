@@ -16,9 +16,15 @@
 
 ## Experience
 
-* Frontend Developer @ Lilab (2022-Present)
-* Frontend Developer and Mobile Developer @ Alianza Capitales (2022-Present)
+* Frontend Developer and Mobile Developer @ Alianza Capitales (2022-2024)
+* Frontend Developer @ Lilab (2022-2024)
 * Frontend Developer @ Miami Never Sleeps Inc. (2020-2022)
+  
+## Projects
+
+* [Cashship](https://www.cashship.com/)
+* [Special Ticket](https://www.specialticket.net/)
+* [ALCCI rifas](https://www.rifasconproposito.com/)
 
 ## Skills
 Languages
