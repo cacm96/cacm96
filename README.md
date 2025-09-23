@@ -16,15 +16,18 @@
 
 ## Experience
 
+* Frontend Engineer @ Minutentag (2025-Present)
+* Frontend Developer @ Lilab (2022-2025)
 * Frontend Developer and Mobile Developer @ Alianza Capitales (2022-2024)
-* Frontend Developer @ Lilab (2022-2024)
 * Frontend Developer @ Miami Never Sleeps Inc. (2020-2022)
   
 ## Projects
 
-* [Cashship](https://www.cashship.com/)
-* [Special Ticket](https://www.specialticket.net/)
+* [JOOPITER](https://www.joopiter.com/)
 * [ALCCI rifas](https://www.rifasconproposito.com/)
+* [Special Ticket](https://www.specialticket.net/)
+* [1234Ticket](https://1234ticket.com/)
+* [Cashship](https://www.cashship.com/)
 
 ## Skills
 Languages
